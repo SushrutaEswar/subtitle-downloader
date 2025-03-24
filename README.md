@@ -198,4 +198,3 @@ git clone https://github.com/{USERNAME}/subtitle-downloader.git
 - Transition from Command Line to GUI with JavaFX or Swing
 - 
 
-### Hello
