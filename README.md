@@ -196,5 +196,4 @@ git clone https://github.com/{USERNAME}/subtitle-downloader.git
 ### Future Ideas
 - Searching Multiple sites for subtitles if its not present in yifysubtitles (Subscene, Opensubtitles etc.)
 - Transition from Command Line to GUI with JavaFX or Swing
-- 
 
